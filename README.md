@@ -1,2 +1,2 @@
 # projectDATA
-Here is the repository for our shared porject data!
+Here is the repository for our shared project data!
