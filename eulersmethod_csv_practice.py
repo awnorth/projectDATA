@@ -8,7 +8,7 @@ Created on Wed Oct  6 12:22:50 2021
 
 import csv
 
-file = "/home/emily/Downloads/acceleration_function_csv - Sheet1 (1).csv"
+file = "car test data modified.csv"
 
 dict_data_acc = []
 with open(file, newline ="") as acceleration_csv:
